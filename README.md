@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/FatehAhmadi0426/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/arash2017.mslearn-tailspin-spacegame-web%20(1)?branchName=master)](https://dev.azure.com/FatehAhmadi0426/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=7&branchName=master)
 
 # Contributing
 
